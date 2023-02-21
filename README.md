@@ -22,6 +22,8 @@ Equal equity.
   
   -04-LDA.ipynb
   
+  -05-Discussion.ipynb
+  
   ## Description   
 
 A project focused on modelling the classification of news articles based on their content.
