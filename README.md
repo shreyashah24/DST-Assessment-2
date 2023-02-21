@@ -16,9 +16,11 @@ Equal equity.
 
   -01-Introduction.ipynb
   
-  -02-Bag of Words.ipynb
+  -02-Preprocessing.ipynb
   
-  -03-LDA.ipynb
+  -03-Bag of Words.ipynb
+  
+  -04-LDA.ipynb
   
   ## Description   
 
