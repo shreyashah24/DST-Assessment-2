@@ -14,8 +14,10 @@ Equal equity.
 
 * Report/
 
-  -01-Introduction.ipynb\\
-  -02-Bag of Words.ipynb\\
+  -01-Introduction.ipynb
+  
+  -02-Bag of Words.ipynb
+  
   -03-LDA.ipynb
   
   ## Description   
