@@ -16,13 +16,15 @@ Equal equity.
 
   -01-Introduction.ipynb
   
-  -02-Preprocessing.ipynb
+  -02-PreProcessing.ipynb
   
-  -03-Bag of Words.ipynb
+  -03-TestTrainSplit.ipynb
   
-  -04-LDA.ipynb
+  -04-Bag of Words.ipynb
   
-  -05-Discussion.ipynb
+  -05-LDA.ipynb
+  
+  -06-Discussion.ipynb
   
   ## Description   
 
