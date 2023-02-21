@@ -26,4 +26,4 @@ Equal equity.
   
   ## Description   
 
-A project focused on modelling the classification of news articles based on their content.
+A project focused on modelling the classification of news articles by topic based on their content.
